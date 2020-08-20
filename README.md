@@ -1,1 +1,2 @@
-# computing-work
+# github game
+## individual story 
