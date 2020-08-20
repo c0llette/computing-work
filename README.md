@@ -1,2 +1,0 @@
-# github game
-## individual story 
